@@ -2,7 +2,7 @@
 
 I am a product manager with an interest in robotics, AI, Physical AI, and most things tech. I have always learnt by doing things hands on, so this is a roadmap made for me to get the most bang for my time without scrimping on knowledge.
 
-I already have a few desk builds on smaller robotics systems, and I have built a few drones. That is just scratching the surface. What I want next is ROS 2 itself, plus the pieces that go with it. Nodes, topics, navigation, and arms, using the same tools the industry uses. This repo is a journal of that work.
+I already have a few desk builds on smaller robotics systems. I've been through 3-inch and 5-inch builds, and will be building a Holybro X500 (PX4) once I get a bit more experienced on the software side. That is just scratching the surface. What I want next is ROS 2 itself, plus the pieces that go with it. Nodes, topics, navigation, and arms, using the same tools the industry uses. This repo is a journal of that work.
 
 [deanspeer.dev](https://deanspeer.dev)  
 Notes as I go live in [PROGRESS.md](PROGRESS.md)

@@ -51,8 +51,16 @@ I also published `cmd_vel` myself from the command line (`ros2 topic pub`) and g
 
 `/turtle1/pose` ran at about **62.5 Hz**, steady to within a couple of milliseconds. `cmd_vel` was **RELIABLE** on both ends. That is worth checking with `ros2 topic info -v` when something goes quiet, because a mismatch can fail silently.
 
+### Services
+
+A topic is a constant stream that any node can listen to, and nothing comes back. A service is one request that always gets one answer. A drone sending out its altitude ten times a second is a topic. Telling it to take a single photo and waiting for it to confirm is a service.
+
+I called `/clear` to wipe the trail, then `/spawn` to put a turtle named `dean` at x 2, y 8, facing up. The reply came back with its name, which is the response half of the Spawn definition.
+
+![Spawning dean with a service call](screenshots/l2_spawn.png)
+
 ---
 
 ## What's next
 
-Services, parameters, actions, launch files, and bags are still on turtlesim. After that come my own Python nodes.
+Parameters, actions, launch files, and bags are still on turtlesim. After that come my own Python nodes.

@@ -85,8 +85,18 @@ A launch file starts several nodes with one command. `ros2 launch turtlesim mult
 
 ![Two turtlesims from one launch file](screenshots/l2_multisim.png)
 
+### Recording and replaying (bags)
+
+A bag is a recording of the messages on chosen topics, with their exact timing. I recorded `/turtle1/cmd_vel` and `/turtle1/pose` while driving a shape for 37 seconds. `ros2 bag info` showed 12 commands and 2,302 position messages, which is 62.5 a second, the same rate `ros2 topic hz` measured.
+
+`ros2 bag play` on a fresh turtlesim made the turtle redraw the drive on its own, and it matched. It took two goes. My first recording had 28 quick key presses over 114 seconds. Replayed at normal speed it was close but not exact, and replayed at 11x, because I held the up arrow, it drew a shape I'd never driven.
+
+Replaying commands is open loop. The turtle gets the same orders but nothing checks where it actually is, so overlapping commands and small timing differences add up. Separate key presses, a short drive and the same starting point fixed it. Timing is part of the data.
+
+![Replaying the recorded drive](screenshots/l2_bag_replay.png)
+
 ---
 
 ## What's next
 
-Bags are still on turtlesim. After that come my own Python nodes.
+Turtlesim is done. Next come my own Python nodes.

@@ -1,0 +1,13 @@
+
+Files:             turtle_drive_0.mcap
+Bag size:          168.8 KiB
+Storage id:        mcap
+ROS Distro:        jazzy
+Duration:          36.847175456s
+Start:             Nov  9 2026 16:21:45.623631230 (1794237705.623631230)
+End:               Nov  9 2026 16:22:22.470806686 (1794237742.470806686)
+Messages:          2314
+Topic information: Topic: /turtle1/cmd_vel | Type: geometry_msgs/msg/Twist | Count: 12 | Serialization Format: cdr
+                   Topic: /turtle1/pose | Type: turtlesim/msg/Pose | Count: 2302 | Serialization Format: cdr
+Service:           0
+Service information: 

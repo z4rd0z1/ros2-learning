@@ -65,8 +65,16 @@ A parameter is a setting you can change while a node is running. turtlesim's bac
 
 I set `background_r` to 150 with `ros2 param set` and the canvas turned purple straight away, with no restart. Then I saved every setting to `turtlesim.yaml` with `ros2 param dump`, restarted turtlesim with `--params-file turtlesim.yaml`, and it opened purple from the start.
 
+### Actions
+
+An action is a long task that reports progress while it runs and can be cancelled partway. It has three parts, the goal (`theta`, which way to face), the result (`delta`, how far it turned) and the feedback (`remaining`, how much is left).
+
+I rotated the turtle with the letter keys and cancelled turns halfway with F. Then I sent a goal myself with `ros2 action send_goal --feedback`, watched `remaining` count down to zero, and got a result of 2.74 radians, about 157 degrees.
+
+A robot uses an action when the job takes time and you want to watch it or stop it, like flying to a waypoint. It uses a service for a quick question with an instant answer, like asking for the battery level.
+
 ---
 
 ## What's next
 
-Actions, launch files, and bags are still on turtlesim. After that come my own Python nodes.
+Launch files and bags are still on turtlesim. After that come my own Python nodes.

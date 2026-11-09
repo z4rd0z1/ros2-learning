@@ -1,0 +1,526 @@
+Waiting for an action server to become available...
+Sending goal:
+     theta: -1.57
+
+Goal accepted with ID: 23b5a697cbe74975a6b20269322f5608
+
+Feedback:
+    remaining: -2.74918532371521
+
+Feedback:
+    remaining: -2.733185291290283
+
+Feedback:
+    remaining: -2.7171854972839355
+
+Feedback:
+    remaining: -2.7011852264404297
+
+Feedback:
+    remaining: -2.685185432434082
+
+Feedback:
+    remaining: -2.6691854000091553
+
+Feedback:
+    remaining: -2.6531853675842285
+
+Feedback:
+    remaining: -2.6371853351593018
+
+Feedback:
+    remaining: -2.621185302734375
+
+Feedback:
+    remaining: -2.6051855087280273
+
+Feedback:
+    remaining: -2.5891852378845215
+
+Feedback:
+    remaining: -2.573185443878174
+
+Feedback:
+    remaining: -2.557185411453247
+
+Feedback:
+    remaining: -2.5411853790283203
+
+Feedback:
+    remaining: -2.5251853466033936
+
+Feedback:
+    remaining: -2.509185314178467
+
+Feedback:
+    remaining: -2.49318528175354
+
+Feedback:
+    remaining: -2.4771852493286133
+
+Feedback:
+    remaining: -2.4611854553222656
+
+Feedback:
+    remaining: -2.445185422897339
+
+Feedback:
+    remaining: -2.429185390472412
+
+Feedback:
+    remaining: -2.4131853580474854
+
+Feedback:
+    remaining: -2.3971853256225586
+
+Feedback:
+    remaining: -2.381185293197632
+
+Feedback:
+    remaining: -2.365185260772705
+
+Feedback:
+    remaining: -2.3491854667663574
+
+Feedback:
+    remaining: -2.3331854343414307
+
+Feedback:
+    remaining: -2.317185401916504
+
+Feedback:
+    remaining: -2.301185369491577
+
+Feedback:
+    remaining: -2.2851853370666504
+
+Feedback:
+    remaining: -2.2691853046417236
+
+Feedback:
+    remaining: -2.253185272216797
+
+Feedback:
+    remaining: -2.237185478210449
+
+Feedback:
+    remaining: -2.2211852073669434
+
+Feedback:
+    remaining: -2.2051854133605957
+
+Feedback:
+    remaining: -2.189185380935669
+
+Feedback:
+    remaining: -2.173185348510742
+
+Feedback:
+    remaining: -2.1571853160858154
+
+Feedback:
+    remaining: -2.1411852836608887
+
+Feedback:
+    remaining: -2.125185489654541
+
+Feedback:
+    remaining: -2.109185218811035
+
+Feedback:
+    remaining: -2.0931854248046875
+
+Feedback:
+    remaining: -2.0771853923797607
+
+Feedback:
+    remaining: -2.061185359954834
+
+Feedback:
+    remaining: -2.0451853275299072
+
+Feedback:
+    remaining: -2.0291852951049805
+
+Feedback:
+    remaining: -2.0131852626800537
+
+Feedback:
+    remaining: -1.9971853494644165
+
+Feedback:
+    remaining: -1.9811853170394897
+
+Feedback:
+    remaining: -1.9651854038238525
+
+Feedback:
+    remaining: -1.9491853713989258
+
+Feedback:
+    remaining: -1.933185338973999
+
+Feedback:
+    remaining: -1.9171853065490723
+
+Feedback:
+    remaining: -1.901185393333435
+
+Feedback:
+    remaining: -1.8851853609085083
+
+Feedback:
+    remaining: -1.8691853284835815
+
+Feedback:
+    remaining: -1.8531854152679443
+
+Feedback:
+    remaining: -1.8371853828430176
+
+Feedback:
+    remaining: -1.8211853504180908
+
+Feedback:
+    remaining: -1.805185317993164
+
+Feedback:
+    remaining: -1.7891852855682373
+
+Feedback:
+    remaining: -1.7731853723526
+
+Feedback:
+    remaining: -1.7571853399276733
+
+Feedback:
+    remaining: -1.7411853075027466
+
+Feedback:
+    remaining: -1.7251853942871094
+
+Feedback:
+    remaining: -1.7091853618621826
+
+Feedback:
+    remaining: -1.6931853294372559
+
+Feedback:
+    remaining: -1.677185297012329
+
+Feedback:
+    remaining: -1.661185383796692
+
+Feedback:
+    remaining: -1.6451853513717651
+
+Feedback:
+    remaining: -1.6291853189468384
+
+Feedback:
+    remaining: -1.6131854057312012
+
+Feedback:
+    remaining: -1.5971853733062744
+
+Feedback:
+    remaining: -1.5811853408813477
+
+Feedback:
+    remaining: -1.565185308456421
+
+Feedback:
+    remaining: -1.5491853952407837
+
+Feedback:
+    remaining: -1.533185362815857
+
+Feedback:
+    remaining: -1.5171853303909302
+
+Feedback:
+    remaining: -1.5011852979660034
+
+Feedback:
+    remaining: -1.4851853847503662
+
+Feedback:
+    remaining: -1.4691853523254395
+
+Feedback:
+    remaining: -1.4531853199005127
+
+Feedback:
+    remaining: -1.437185287475586
+
+Feedback:
+    remaining: -1.4211853742599487
+
+Feedback:
+    remaining: -1.405185341835022
+
+Feedback:
+    remaining: -1.3891853094100952
+
+Feedback:
+    remaining: -1.373185396194458
+
+Feedback:
+    remaining: -1.3571853637695312
+
+Feedback:
+    remaining: -1.3411853313446045
+
+Feedback:
+    remaining: -1.3251852989196777
+
+Feedback:
+    remaining: -1.3091853857040405
+
+Feedback:
+    remaining: -1.2931853532791138
+
+Feedback:
+    remaining: -1.277185320854187
+
+Feedback:
+    remaining: -1.2611854076385498
+
+Feedback:
+    remaining: -1.245185375213623
+
+Feedback:
+    remaining: -1.2291853427886963
+
+Feedback:
+    remaining: -1.2131853103637695
+
+Feedback:
+    remaining: -1.1971853971481323
+
+Feedback:
+    remaining: -1.1811853647232056
+
+Feedback:
+    remaining: -1.1651853322982788
+
+Feedback:
+    remaining: -1.1491854190826416
+
+Feedback:
+    remaining: -1.1331853866577148
+
+Feedback:
+    remaining: -1.117185354232788
+
+Feedback:
+    remaining: -1.1011853218078613
+
+Feedback:
+    remaining: -1.0851852893829346
+
+Feedback:
+    remaining: -1.0691853761672974
+
+Feedback:
+    remaining: -1.0531853437423706
+
+Feedback:
+    remaining: -1.0371854305267334
+
+Feedback:
+    remaining: -1.0211853981018066
+
+Feedback:
+    remaining: -1.0051853656768799
+
+Feedback:
+    remaining: -0.9891853332519531
+
+Feedback:
+    remaining: -0.9731853604316711
+
+Feedback:
+    remaining: -0.9571853280067444
+
+Feedback:
+    remaining: -0.9411853551864624
+
+Feedback:
+    remaining: -0.9251853227615356
+
+Feedback:
+    remaining: -0.9091853499412537
+
+Feedback:
+    remaining: -0.8931853771209717
+
+Feedback:
+    remaining: -0.8771853446960449
+
+Feedback:
+    remaining: -0.8611853718757629
+
+Feedback:
+    remaining: -0.8451853394508362
+
+Feedback:
+    remaining: -0.8291853666305542
+
+Feedback:
+    remaining: -0.8131853342056274
+
+Feedback:
+    remaining: -0.7971853613853455
+
+Feedback:
+    remaining: -0.7811853289604187
+
+Feedback:
+    remaining: -0.7651853561401367
+
+Feedback:
+    remaining: -0.74918532371521
+
+Feedback:
+    remaining: -0.733185350894928
+
+Feedback:
+    remaining: -0.717185378074646
+
+Feedback:
+    remaining: -0.7011853456497192
+
+Feedback:
+    remaining: -0.6851853728294373
+
+Feedback:
+    remaining: -0.6691853404045105
+
+Feedback:
+    remaining: -0.6531853675842285
+
+Feedback:
+    remaining: -0.6371853351593018
+
+Feedback:
+    remaining: -0.6211853623390198
+
+Feedback:
+    remaining: -0.605185329914093
+
+Feedback:
+    remaining: -0.589185357093811
+
+Feedback:
+    remaining: -0.5731853246688843
+
+Feedback:
+    remaining: -0.5571854114532471
+
+Feedback:
+    remaining: -0.5411853790283203
+
+Feedback:
+    remaining: -0.5251853466033936
+
+Feedback:
+    remaining: -0.5091853141784668
+
+Feedback:
+    remaining: -0.4931854009628296
+
+Feedback:
+    remaining: -0.47718536853790283
+
+Feedback:
+    remaining: -0.4611853361129761
+
+Feedback:
+    remaining: -0.4451853036880493
+
+Feedback:
+    remaining: -0.4291853904724121
+
+Feedback:
+    remaining: -0.41318535804748535
+
+Feedback:
+    remaining: -0.3971853256225586
+
+Feedback:
+    remaining: -0.38118529319763184
+
+Feedback:
+    remaining: -0.36518537998199463
+
+Feedback:
+    remaining: -0.34918534755706787
+
+Feedback:
+    remaining: -0.3331853151321411
+
+Feedback:
+    remaining: -0.3171854019165039
+
+Feedback:
+    remaining: -0.30118536949157715
+
+Feedback:
+    remaining: -0.2851853370666504
+
+Feedback:
+    remaining: -0.26918530464172363
+
+Feedback:
+    remaining: -0.2531853914260864
+
+Feedback:
+    remaining: -0.23718535900115967
+
+Feedback:
+    remaining: -0.2211853265762329
+
+Feedback:
+    remaining: -0.20518529415130615
+
+Feedback:
+    remaining: -0.18918538093566895
+
+Feedback:
+    remaining: -0.1731853485107422
+
+Feedback:
+    remaining: -0.15718531608581543
+
+Feedback:
+    remaining: -0.14118540287017822
+
+Feedback:
+    remaining: -0.12518537044525146
+
+Feedback:
+    remaining: -0.10918533802032471
+
+Feedback:
+    remaining: -0.09318530559539795
+
+Feedback:
+    remaining: -0.07718539237976074
+
+Feedback:
+    remaining: -0.061185359954833984
+
+Feedback:
+    remaining: -0.04518532752990723
+
+Feedback:
+    remaining: -0.02918529510498047
+
+Feedback:
+    remaining: -0.013185381889343262
+
+Result:
+    delta: 2.7360000610351562
+
+Goal finished with status: SUCCEEDED

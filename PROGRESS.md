@@ -73,8 +73,20 @@ I rotated the turtle with the letter keys and cancelled turns halfway with F. Th
 
 A robot uses an action when the job takes time and you want to watch it or stop it, like flying to a waypoint. It uses a service for a quick question with an instant answer, like asking for the battery level.
 
+### Logs and launch files
+
+Every ROS node reports what it is doing as log messages, from routine info up to warnings and errors. rqt_console collects them all in one window where you can filter and search them.
+
+I drove the turtle into the wall with `ros2 topic pub` and the console filled with turtlesim's "Oh no! I hit the wall!" warnings, 754 of them, because it checks its position 62.5 times a second.
+
+![rqt_console showing the wall warnings](screenshots/l2_rqt_console.png)
+
+A launch file starts several nodes with one command. `ros2 launch turtlesim multisim.launch.py` opened two turtlesims, each in its own namespace, `turtlesim1` and `turtlesim2`, so their topics don't clash. I drove them in opposite circles by publishing to each one's own `cmd_vel`.
+
+![Two turtlesims from one launch file](screenshots/l2_multisim.png)
+
 ---
 
 ## What's next
 
-Launch files and bags are still on turtlesim. After that come my own Python nodes.
+Bags are still on turtlesim. After that come my own Python nodes.

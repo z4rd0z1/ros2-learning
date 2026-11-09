@@ -59,8 +59,14 @@ I called `/clear` to wipe the trail, then `/spawn` to put a turtle named `dean` 
 
 ![Spawning dean with a service call](screenshots/l2_spawn.png)
 
+### Parameters
+
+A parameter is a setting you can change while a node is running. turtlesim's background colour is three of them, `background_r`, `background_g` and `background_b`, each from 0 to 255.
+
+I set `background_r` to 150 with `ros2 param set` and the canvas turned purple straight away, with no restart. Then I saved every setting to `turtlesim.yaml` with `ros2 param dump`, restarted turtlesim with `--params-file turtlesim.yaml`, and it opened purple from the start.
+
 ---
 
 ## What's next
 
-Parameters, actions, launch files, and bags are still on turtlesim. After that come my own Python nodes.
+Actions, launch files, and bags are still on turtlesim. After that come my own Python nodes.

@@ -9,24 +9,24 @@ Notes as I go live in [PROGRESS.md](PROGRESS.md)
 
 ## Roadmap
 
-### Environment
+### Environment — Done
 
-- Ubuntu 24.04 ARM virtual machine on the Mac mini (UTM)
-- ROS 2 Jazzy desktop install
-- Gazebo Harmonic, with the ROS–Gazebo bridge
-- Coding agent running inside the VM
-- Talker / listener demo and a Gazebo world as first proof
+- [x] Ubuntu 24.04 ARM virtual machine on the Mac mini (UTM)
+- [x] ROS 2 Jazzy desktop install
+- [x] Gazebo Harmonic, with the ROS–Gazebo bridge
+- [x] Coding agent running inside the VM
+- [x] Talker / listener demo and a Gazebo world as first proof
 
-### ROS 2 basics with turtlesim
+### ROS 2 basics with turtlesim — Done
 
-- Environment and the ROS 2 graph (`rqt_graph`)
-- Nodes and topics, including driving from the command line
-- QoS and reliability (the detail that matters later with PX4)
-- Services (spawn, clear, request / reply)
-- Parameters (change a running node, dump and reload)
-- Actions (long goals with feedback and cancel)
-- Logs and launch files
-- Recording and replaying with ros2 bag
+- [x] Environment and the ROS 2 graph (`rqt_graph`)
+- [x] Nodes and topics, including driving from the command line
+- [x] QoS and reliability (the detail that matters later with PX4)
+- [x] Services (spawn, clear, request / reply)
+- [x] Parameters (change a running node, dump and reload)
+- [x] Actions (long goals with feedback and cancel)
+- [x] Logs and launch files
+- [x] Recording and replaying with ros2 bag
 
 ### First ROS 2 nodes in Python
 
